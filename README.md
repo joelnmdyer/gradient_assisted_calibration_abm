@@ -5,7 +5,7 @@ forthcoming in the Proceedings of the Fourth International Conference on AI in F
 # Running the code
 To run this code, use python 3.10 and issue
 ```
-python3.10 -m pip install blackbirds jupyter==1.0.0 scienceplots==2.1.0 pygtc==0.4.1 tensorflow==2.14.0
+python3.10 -m pip install blackbirds==1.2 jupyter==1.0.0 scienceplots==2.1.0 pygtc==0.4.1 tensorflow==2.14.0
 ```
 
 # Citation
