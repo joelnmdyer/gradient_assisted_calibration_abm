@@ -9,6 +9,7 @@ python3.10 -m pip install blackbirds==1.2 jupyter==1.0.0 scienceplots==2.1.0 pyg
 ```
 
 # Citation
+```
 @inproceedings{dyer2023a,
   edition = {},
   number = {},
@@ -24,3 +25,4 @@ python3.10 -m pip install blackbirds==1.2 jupyter==1.0.0 scienceplots==2.1.0 pyg
   organizer = {4th ACM International Conference on AI in Finance ((ICAIF 2023)},
   series = {}
 }
+```
