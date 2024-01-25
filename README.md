@@ -1,7 +1,6 @@
 # gradient_assisted_calibration_abm
 Code for paper "Gradient-assisted calibration for financial agent-based models", 
-which appeared in the Proceedings of the Fourth International Conference on AI in Finance. In this paper, we consider how agent-based models can be constructed in a differentiable manner, and how the differentiability of a differentiable agent
--based model might be useful for accelerating _generalised_ Bayesian parameter inference procedures. See the <a href="https://m.youtube.com/watch?v=ria0aKWztGE">INET Oxford YouTube Channel for a recording of a talk</a> I gave about this paper.
+which appeared in the Proceedings of the Fourth International Conference on AI in Finance. In this paper, we consider how agent-based models can be constructed in a differentiable manner, and how the differentiability of a differentiable agent-based model might be useful for accelerating certain (although not all) parameter inference procedures. See the <a href="https://m.youtube.com/watch?v=ria0aKWztGE">INET Oxford YouTube Channel for a recording of a talk</a> I gave about this paper.
 
 # Running the code
 To run this code, use python 3.10 and issue
