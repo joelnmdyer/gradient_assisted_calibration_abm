@@ -10,19 +10,11 @@ python3.10 -m pip install blackbirds==1.2 jupyter==1.0.0 scienceplots==2.1.0 pyg
 
 # Citation
 ```
-@inproceedings{dyer2023a,
-  edition = {},
-  number = {},
-  journal = {},
-  pages = {},
-  publisher = {},
-  school = {},
-  title = {Gradient-assisted calibration for financial agent-based models},
-  volume = {},
-  author = {Dyer, J and Quera-Bofarull, A and Chopra, A and Farmer, JD and Calinescu, A and Wooldridge, MJ},
-  editor = {},
-  year = {2023},
-  organizer = {4th ACM International Conference on AI in Finance ((ICAIF 2023)},
-  series = {}
+@inproceedings{dyer2023gradient,
+  title={Gradient-assisted calibration for financial agent-based models},
+  author={Dyer, Joel and Quera-Bofarull, Arnau and Chopra, Ayush and Farmer, J Doyne and Calinescu, Anisoara and Wooldridge, Michael},
+  booktitle={Proceedings of the Fourth ACM International Conference on AI in Finance},
+  pages={288--296},
+  year={2023}
 }
 ```
